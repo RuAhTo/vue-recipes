@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/components/recipeservice.ts","./src/components/types.ts","./src/app.vue","./src/components/recipecard.vue","./src/components/recipefavorites.vue","./src/components/recipelist.vue"],"version":"5.8.3"}
